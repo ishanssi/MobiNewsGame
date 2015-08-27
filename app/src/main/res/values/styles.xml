@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="dialog_animation">
+        <item name="android:windowEnterAnimation">@anim/scaleup</item>
+
+
+        <item name="android:windowExitAnimation">@anim/scaledown</item>
+
+
+
+
+    </style>
+
+</resources>

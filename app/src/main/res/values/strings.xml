@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">     News Match</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_leaderboard">Leaderboard</string>
+
+
+    <string name="saved_index">index</string>
+    saved_high_score
+</resources>
